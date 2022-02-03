@@ -41,7 +41,7 @@ thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 To predict if a person is under a risk of having heart disease
 
 **6. Tools:**
-Pandas, Numpy, Scikit-learn,.
+Pandas, Numpy, Scikit-learn,Excel sheet, matplotlib/seaborn.
 
 **7. MVP Goal:**
 My initial goal is to find a basic prediction model accuracy.
