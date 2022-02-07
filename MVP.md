@@ -2,7 +2,7 @@
 
 **Business Problem:** The goal of this project is to predict heart disease at early stage in order to reduce death rates through Fitbit.
 
-**solution path :** To build a logistic regression model to predict heart disease.
+**Solution path :** To build a logistic regression model to predict heart disease.
 
 **Measures of success:** Successfully reduce the number of peaople die due to heart disease.
 
