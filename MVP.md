@@ -15,8 +15,9 @@ source: https://www.cdc.gov/nchs/hus/contents2019.htm?search=Heart_disease,
 The below analysis shows the 2018 death certificate report and their cause of death and 
 it clearly shows that heart disease topped among other causes of death.
 
-Values in the data set are Age-adjusted deaths per 100,000 population. (only used 2018 data points)
-<img width="637" alt="Screen Shot 2022-02-07 at 1 22 29 PM" src="https://user-images.githubusercontent.com/89863226/152874145-d8c571dd-c86f-45eb-b0d0-85adc6ccafb2.png">
+Valuesin the data set are Age-adjusted deaths per 100,000 population. (only used 2018 data points)
+
+<img width="641" alt="Screen Shot 2022-02-07 at 2 13 46 PM" src="https://user-images.githubusercontent.com/89863226/152881122-f0afdd6f-216b-4177-907a-5404819174dd.png">
 
 
 The chart below shows that the age group from 50 t0 60 has higher chance of having a heart disease. 
