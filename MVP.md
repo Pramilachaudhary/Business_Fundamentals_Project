@@ -27,6 +27,7 @@ The chart below shows that the age group from 50 t0 60 has higher chance of havi
 Chest pain is positively coorelated with the target
 The chart below shows that Asymptomatic pain type has higher number of people who had heart disease.
 which means there are other factors which can be involved in this like weight, family history, smoking etc.
+
 <img width="615" alt="Screen Shot 2022-02-07 at 12 45 22 PM" src="https://user-images.githubusercontent.com/89863226/152873742-310fea03-f5ed-413b-9a4f-9096a5234f8e.png">
 
 Further in the analysis I would add more features likes max heart rate, Cholestrol etc.
