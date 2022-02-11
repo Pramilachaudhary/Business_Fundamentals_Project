@@ -27,8 +27,8 @@ positive coorelation with the target and as well as with each other.
    Early dectection can reduce the risk of disease as well as if treated on time can also reduces the chance of death.
 
   **Measures of success:**
-
-    Successfully detecting the potential risk of heart disease at a very early stage For Fitbit users.
+   
+   Successfully detecting the potential risk of heart disease at a very early stage For Fitbit users.
 
   **Risks and assumptions:**
 
