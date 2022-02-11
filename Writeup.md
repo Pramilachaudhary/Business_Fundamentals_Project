@@ -63,3 +63,5 @@ In future work, I plan to develop a Linear Regression model which will succussfu
   2. Tableau for data visualization
 
 # Communication:
+  Uploaded the Presentation PDF on my repo.
+  Uploaded a Tableau dashboard online.https://public.tableau.com/app/profile/pramila2473/viz/Heart_disease_Analysis/Dashboard4
