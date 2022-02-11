@@ -64,4 +64,7 @@ In future work, I plan to develop a Linear Regression model which will succussfu
 
 # Communication:
   Uploaded the Presentation PDF on my repo.
+  
   Uploaded a Tableau dashboard online: [Tableau Visualization](https://public.tableau.com/app/profile/pramila2473/viz/Heart_disease_Analysis/Dashboard4)
+  
+  [Google sheet](https://docs.google.com/spreadsheets/d/1Fl_E-MVb1w2oXqNS2n43CEdz1wIjpL9q/edit#gid=2084413243)
