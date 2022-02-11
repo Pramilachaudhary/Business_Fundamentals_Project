@@ -20,9 +20,9 @@ Valuesin the data set are Age-adjusted deaths per 100,000 population. (only used
 <img width="641" alt="Screen Shot 2022-02-07 at 2 13 46 PM" src="https://user-images.githubusercontent.com/89863226/152881122-f0afdd6f-216b-4177-907a-5404819174dd.png">
 
 
-The chart below shows that the age group from 50 t0 60 has higher chance of having a heart disease. 
+The chart below shows that the age group from 50 t0 60 has higher chance of having a heart disease.
 
-<img width="633" alt="Screen Shot 2022-02-07 at 12 44 27 PM" src="https://user-images.githubusercontent.com/89863226/152873731-89bc8530-c778-417b-bd75-01394efc177f.png">
+<img width="649" alt="Screen Shot 2022-02-10 at 10 14 01 PM" src="https://user-images.githubusercontent.com/89863226/153546262-20b10c83-f562-4fa3-b5aa-b68f3273d8fb.png">
 
 Chest pain is positively coorelated with the target
 The chart below shows that Asymptomatic pain type has higher number of people who had heart disease.
