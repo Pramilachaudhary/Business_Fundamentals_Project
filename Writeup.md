@@ -16,15 +16,15 @@ positive coorelation with the target and as well as with each other.
 
   **Solution paths:**
   
-  Predict heart disease at early stage based on linear reggression pridiction model based upon the following features:
+  Predict heart disease at early stage based on linear reggression prediction model based upon the following methods:
     1. Identify the positively correlated features with the target and eaxh other
-    2. EDA on for each of the feature which will be uselful for the model
-    3. find the linear relation ship between the features.
+    2. EDA for each of the feature which will be uselful for the model
+    3. Find the linear relationship between the features.
 
   **Impact hypothesis**
 
    By better understanding how features are involved in predicting the disease at early stage to avoid any kind of complication for Fitbit users. 
-   Early dectection can reduce the risk of disease as well as if treated on time can also reduces the chance of death.
+   Early dectection can reduce the risk of disease as well as if treated on time can also reduces the possibility of death.
 
   **Measures of success:**
    
@@ -32,8 +32,8 @@ positive coorelation with the target and as well as with each other.
 
   **Risks and assumptions:**
 
-  Risk: Factors like persons family health history, smoking intake, weight, eating habbits ect are not included in the data set, 
-        which sometime can be the reason of cause of disease. 
+  Risk: Factors like a person's family health history, smoking intake, weight, eating habbits ect are not included in the data set, 
+        which sometimes can be the reason of cause of disease. 
   Assumption: Factors mentioned above are not effecting the prediction.
 
 # Data Set
@@ -47,7 +47,7 @@ positive coorelation with the target and as well as with each other.
 ## Algorithms
 
   1. Data Cleaning & EDA: Data cleaning and exploratory data analysis was carried out in Google Sheets and Tableau.
-  2. feature selection based on Relationship between two features.
+  2. Feature selection based on Relationship between two features.
   
 ## Visualization:
 
