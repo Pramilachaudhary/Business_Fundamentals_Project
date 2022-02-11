@@ -10,27 +10,27 @@ positive coorelation with the target and as well as with each other.
 
 # Design:
 
-  **Business Problem
+  **Business Problem**
 
   How to detect heart disease at early stage for Fitbit users.
 
-  **Solution paths:
+  **Solution paths:**
   
   Predict heart disease at early stage based on linear reggression pridiction model based upon the following features:
     1. Identify the positively correlated features with the target and eaxh other
     2. EDA on for each of the feature which will be uselful for the model
     3. find the linear relation ship between the features.
 
-  **Impact hypothesis
+  **Impact hypothesis**
 
    By better understanding how features are involved in predicting the disease at early stage to avoid any kind of complication for Fitbit users. 
    Early dectection can reduce the risk of disease as well as if treated on time can also reduces the chance of death.
 
-  **Measures of success:
+  **Measures of success:**
 
     Successfully detecting the potential risk of heart disease at a very early stage For Fitbit users.
 
-  **Risks and assumptions:
+  **Risks and assumptions:**
 
   Risk: Factors like persons family health history, smoking intake, weight, eating habbits ect are not included in the data set, 
         which sometime can be the reason of cause of disease. 
