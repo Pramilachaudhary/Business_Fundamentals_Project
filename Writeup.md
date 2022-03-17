@@ -5,7 +5,7 @@ Pramila Chaudhary
 The goal of this project is to deliver a well-scoped project proposal and preliminary analysis/relationships between 
 medical factors related to heart disease and patterns to FitBit. Disease Prediction plays a pivotal role in healthcare informatics. 
 It is crucial to diagnose the disease at an early stage to minimize the heart related issue. I have used the patient's medical records 
-for preliminary analysis and found that features like Age, types of chest pain, max heart rate and resting Blood pressure has the hight 
+for preliminary analysis and found that features like Age, types of chest pain, max heart rate and resting Blood pressure has the heighest 
 positive coorelation with the target and as well as with each other.
 
 # Design:
